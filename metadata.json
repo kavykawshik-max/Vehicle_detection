@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Traffic Monitoring System",
+  "description": "AI-Powered Vehicle Detection, Classification & Traffic Analytics System with YOLOv8, Computer Vision Tracking & Government Surveillance Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
